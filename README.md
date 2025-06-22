@@ -14,7 +14,6 @@ TradeSense is an intelligent trading assistant for the MetaTrader 5 platform. It
 - ⚙️ **Strategy Builder (Rule-based Logic)**
 - 🧪 **Backtest Mode with SL/TP Simulation**
 - 🌙 **Dark Mode + HUD Toggle**
-- 🌐 **Multi-language Scaffold (EN/HI)**
 - 🛠 **Customizable Parameters (Threshold, Cooldown, SL/TP)**
 
 ---
