@@ -32,3 +32,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 Ensure MetaTrader 5 is installed & logged in
+
+python -m gui.gui_main
+
