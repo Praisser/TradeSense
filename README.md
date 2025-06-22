@@ -24,5 +24,5 @@ TradeSense is an intelligent trading assistant for the MetaTrader 5 platform. It
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/TradeSense.git
+git clone https://github.com/Praisser/TradeSense.git
 cd TradeSense
