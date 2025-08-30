@@ -1,0 +1,1 @@
+if rsi < 30 and macd > 0: signal = 1
